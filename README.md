@@ -1,5 +1,5 @@
 <h2>Hi, I'm ttangzzi. 🌱</h2>
-###Introduction:
+Introduction:
 - I'm Jung Ki-sung, a student attending hannam_university.
 - I'm currently studying with the goal of becoming a front-end.
 - I'm currently learning JavaScript and React_JS with HTML & CSS
